@@ -11,7 +11,7 @@ from pathlib import Path
 import cv2
 from PIL import Image
 
-DATA_FOLDER = '/Users/bhavyakasera/Documents/PrenatalUS/cleaned_and_cropped'
+DATA_FOLDER = '/Users/bhavyakasera/Documents/PrenatalUS/cleaned_and_cropped' # this is the OneDrive data
 IMAGE_FOLDER = '/Users/bhavyakasera/Documents/PrenatalUS/data/prenatalUS_NT'
 
 #
