@@ -12,6 +12,7 @@ import cv2
 from PIL import Image
 
 DATA_FOLDER = '/Users/bhavyakasera/Documents/PrenatalUS/cleaned_and_cropped' # this is the OneDrive data
+# to process the onedrive data, uncomment the first for loop, and use the commented train_val_split function to split the data into train_patients, val_patients
 IMAGE_FOLDER = '/Users/bhavyakasera/Documents/PrenatalUS/data/prenatalUS_NT'
 
 #
